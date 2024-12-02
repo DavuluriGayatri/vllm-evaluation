@@ -19,6 +19,7 @@ This project evaluates the safety, robustness, and performance of OpenAI’s GPT
 
 - **OODCV-VQA Vision and Counterfactual**: Tests generalization and hypothetical reasoning.
 - **Sketchy-VQA and Sketchy-VQA Challenging**: Assesses performance on abstract and ambiguous sketches.
+- You can access the datasets [here](https://drive.google.com/file/d/11Xie17M_QRZ7g4nkMS03Lh4XR7I28hCY/view?usp=sharing)
 
 ### Methodology
 
